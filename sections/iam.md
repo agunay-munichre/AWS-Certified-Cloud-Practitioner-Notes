@@ -130,6 +130,7 @@
    - Helps identify unnecessary permissions that can be revoked for least privilege.
 
 3. **IAM Policy Simulator**:
+   - https://policysim.aws.amazon.com/
    - A tool that lets you test and validate the impact of IAM policies before applying them to users, groups, or roles.
    - Helps to understand which actions are allowed or denied based on current policies.
 
