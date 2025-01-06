@@ -125,7 +125,7 @@
    - A report that provides details about all IAM users in the AWS account, including the status of their passwords and access keys.
    - Useful for auditing and reviewing user credentials.
 
-2. **IAM Access Advisor**:
+2. **IAM Access Analyzer**:
    - Shows service permissions granted to a user and indicates the last time those permissions were used.
    - Helps identify unnecessary permissions that can be revoked for least privilege.
 
